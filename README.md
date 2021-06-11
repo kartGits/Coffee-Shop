@@ -1,7 +1,7 @@
 # [ Coffee Shop ](https://coffee-shop.pages.dev/)
 Landing page desgin of a Coffee Shop / ecommerce shop.
 
-![Coffee Shop SS](https://raw.githubusercontent.com/kartGits/Cofee-Shop/main/src/images/coffee-shop.png)
+![Coffee Shop SS](https://raw.githubusercontent.com/kartGits/Coffee-Shop/main/src/images/coffee-shop.png)
 
 ---
 ## Run Locally
