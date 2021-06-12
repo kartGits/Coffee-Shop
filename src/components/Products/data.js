@@ -5,7 +5,7 @@ import sweet1 from '../../images/sweet3.jpg';
 import sweet2 from '../../images/sweet-2.jpg';
 import sweet3 from '../../images/sweet-3.jpg';
 
-export const productData = [
+export const productsData = [
   {
     img: product1,
     alt: 'Coffee',
@@ -35,7 +35,7 @@ export const productData = [
   }
 ];
 
-export const productDataTwo = [
+export const productsDataTwo = [
   {
     img: sweet2,
     alt: 'Donuts',
