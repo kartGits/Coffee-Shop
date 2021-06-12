@@ -1,4 +1,4 @@
-# [ Coffee Shop ](https://coffee-shop.pages.dev/)
+# [ Coffee Shop ](https://coffee-shop-cd2.pages.dev/)
 Landing page desgin of a Coffee Shop / ecommerce shop.
 
 ![Coffee Shop SS](https://raw.githubusercontent.com/kartGits/Coffee-Shop/main/src/images/coffee-shop.png)
