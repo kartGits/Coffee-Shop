@@ -7,7 +7,7 @@ Landing page desgin of a Coffee Shop / ecommerce shop.
 ## Run Locally
 1. Clone this repo
 ```bash
-git clone https://github.com/kartGits/Eggcellent && cd Eggcellent
+git clone https://github.com/kartGits/coffee-shop && cd coffee-shop
 ```
 2. Install project dependecies
 ```bash
