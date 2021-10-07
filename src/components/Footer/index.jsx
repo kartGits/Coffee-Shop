@@ -27,14 +27,14 @@ const Footer = () => {
               <SocialIconLink href='/' target='_blank' aria-label='Facebook'>
                 <FaFacebook />
               </SocialIconLink>
-              <SocialIconLink href='/' target='_blank' aria-label='Instagram'>
+              <SocialIconLink href='https://instagram.com/_iclapcheeks.com/' target='_blank' aria-label='Instagram'>
                 <FaInstagram />
               </SocialIconLink>
               <SocialIconLink href='/' target='_blank' aria-label='Youtube'>
                 <FaYoutube />
               </SocialIconLink>
               <SocialIconLink
-                href='//twitter.com/kart_witter'
+                href='https://twitter.com/kart_witter'
                 target='_blank'
                 aria-label='Twitter'
                 rel='noopener noreferrer'
