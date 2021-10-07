@@ -1,5 +1,5 @@
 # [ Coffee Shop ](https://coffee-shop-cd2.pages.dev/)
-Landing page desgin of a Coffee Shop / ecommerce shop.
+Landing page desgin of a Coffee Shop.
 
 ![Coffee Shop SS](https://raw.githubusercontent.com/kartGits/Coffee-Shop/main/src/images/coffee-shop.png)
 
